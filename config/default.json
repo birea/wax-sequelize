@@ -1,0 +1,5 @@
+{
+"jwtSecret":"secret",
+"dbPassword":"wolvesCDQ49!",
+"dbName": "wax2"
+}

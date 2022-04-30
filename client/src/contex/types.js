@@ -1,0 +1,72 @@
+export const GET_ALBUMS = 'GET_ALBUMS';
+export const GET_ARTISTS = 'GET_ARTISTS';
+export const FILTER_ALBUMS = 'FILTER_ALBUMS';
+export const FILTER_ARTISTS  = 'FILTER_ARTISTS ';
+
+
+
+
+
+
+
+
+export const GET_PROFILE = 'GET_PROFILE'
+
+
+export const LIKE_ALBUM = 'LIKE_ALBUM'
+export const FAV_ALBUM = 'FAV_ALBUM'
+
+export const DELETE_ALBUM_LIKE = 'DELETE_ALBUM_LIKE'
+export const DELETE_ALBUM_FAV = 'DELETE_ALBUM_FAV'
+export const DELETE_ALBUM_REVIEW = 'DELETE_ALBUM_REVIEW';
+export const DELETE_ALBUM_RATING = 'DELETE_ALBUM_RATING';
+
+export const UPDATE_ALBUM_REVIEW = 'UPDATE_ALBUM_REVIEW';
+export const UPDATE_ALBUM_RATING = 'UPDATE_ALBUM_RATING';
+
+export const SHOW_ALBUM_SONGS = 'SHOW_ALBUMS_SONGS';
+export const SHOW_ALBUM_REVIEWS = 'SHOW_ALBUMS_REVIEWS';
+
+
+
+
+export const CREATE_ALBUM = 'CREATE_ALBUM';
+export const UPDATE_ALBUM = 'UPDATE_ALBUM';
+export const DELETE_ALBUM = 'DELETE_ALBUM';
+
+export const FILTER_A = 'FILTER_BY_RATING'
+export const FILTER_BY_RATING = 'FILTER_BY_RATING'
+export const FILTER_BY_GENRE = 'FILTER_BY_GENRE'
+export const FILTER_BY_LIKES = 'FILTER_BY_LIKES'
+export const FILTER_BY_FAVS = 'FILTER_BY_FAVS'
+export const FILTER_BY_DATE = 'FILTER_BY_DATE'
+export const FILTER_BY_RUNTIME = 'FILTER_BY_RUNTIME'
+
+
+
+
+
+
+
+
+
+export const SET_CURRENT = 'SET_CURRENT';
+export const CLEAR_CURRENT = 'CLEAR_CURRENT';
+export const CLEAR_ALBUMS = 'CLEAR_ALBUMS';
+export const ALBUM_ERROR = 'ALBUM_ERROR';
+
+
+
+export const CLEAR_FILTER = 'CLEAR_FILTER';
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+
+// USER AUTH 
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT = 'LOGOUT';
+export const CLEAR_ERRORS = 'CLEAR_ERRORS'
